@@ -1,5 +1,9 @@
-# desafio-site-arquitetura
-Desafio Site de Arquitetura
+
+
+Desafio 1 - Resolução
+Link do site disponilizado: https://landing-page-arqu.netlify.app/
+Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/10a37xq9n7CaOgyeKhlu8eCBSsEIudpPJL30rL6lUGy4/edit
+
 Projeto de site de arquitetura
 
 Bem-vindo ao repositório do Projeto de Site de Arquitetura! Este projeto tem como objetivo a criação de um site simples mas elegante para uma empresa de arquitetura onde os usuários possam conhecer os serviços e projetos da empresa, além de terem a opção de entrar em contato informando seu nome e endereço de e-mail.
